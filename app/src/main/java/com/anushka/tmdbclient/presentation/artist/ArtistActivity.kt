@@ -13,5 +13,6 @@ class ArtistActivity : AppCompatActivity() {
         binding = DataBindingUtil.setContentView(this,R.layout.activity_artist)
         println("Change 4")
         println("This LINE WILL BE MERGED")
+        println("Hello from your friend")
     }
 }
